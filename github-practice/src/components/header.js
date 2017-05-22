@@ -1,7 +1,7 @@
 class Header extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="Header">
         <div>
           This is the header component!
         </div>
